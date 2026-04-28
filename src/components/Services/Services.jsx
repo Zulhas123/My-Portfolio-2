@@ -6,7 +6,7 @@ export default function Services() {
     <section className="services" id="services">
       <div className="max-width">
         <div className="border">
-          <h2 className="title">Our Services</h2>
+          <h2 className="title">My Services</h2>
         </div>
 
         <div className="serv-grid">

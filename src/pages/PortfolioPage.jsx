@@ -152,11 +152,11 @@ export default function PortfolioPage({ initialSectionId = "home" }) {
             <div className="card">
               <h4>Contact Details</h4>
               <p className="muted">Email</p>
-              <p>yourname@email.com</p>
+              <p>mdzulhasuddin95@email.com</p>
               <p className="muted" style={{ marginTop: 12 }}>
                 Location
               </p>
-              <p>Your City, Country</p>
+              <p>Dhaka, Bangladesh</p>
             </div>
 
             <div className="card">
