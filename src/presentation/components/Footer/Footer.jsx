@@ -6,8 +6,9 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-left">
-          {/* <div className="footer-title">Md Zulhas</div> */}
-          <div className="footer-subtitle">Md Zulhas © {new Date().getFullYear()} · All rights reserved</div>
+          <div className="footer-subtitle">
+            Md Zulhas © {new Date().getFullYear()} · All rights reserved
+          </div>
         </div>
 
         <div className="footer-right">
@@ -28,3 +29,4 @@ export default function Footer() {
     </footer>
   );
 }
+

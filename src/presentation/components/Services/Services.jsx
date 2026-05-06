@@ -3,7 +3,7 @@ import "./Services.css";
 
 export default function Services() {
   return (
-    <section className="services" id="services">
+    <div className="services">
       <div className="max-width">
         <div className="border">
           <h2 className="title">My Services</h2>
@@ -21,7 +21,7 @@ export default function Services() {
           ))}
         </div>
       </div>
-    </section>
+    </div>
   );
 }
 
