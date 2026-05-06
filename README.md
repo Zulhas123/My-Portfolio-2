@@ -157,3 +157,13 @@ This codebase was refactored progressively:
 4. **Integrate**: refactored Header/Page to consume shared application data via provider + hooks.
 5. **Optimize**: removed unused files and redundant dependencies, keeping the runtime lightweight.
 
+## Adding your profile image
+
+This project includes a placeholder image at:
+
+- `src/presentation/assets/profile-placeholder.svg`
+
+To use your own image:
+
+1. Add your photo to `src/presentation/assets/` (e.g. `profile.jpg` or `profile.png`).
+2. Update the import in `src/presentation/components/sections/HomeSectionContent.jsx` to point to your file.

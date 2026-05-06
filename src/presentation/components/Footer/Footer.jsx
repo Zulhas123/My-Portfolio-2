@@ -12,10 +12,10 @@ export default function Footer() {
         </div>
 
         <div className="footer-right">
-          <a className="social" href="https://github.com/" target="_blank" rel="noreferrer">
+          <a className="social" href="https://github.com/Zulhas123" target="_blank" rel="noreferrer">
             GitHub
           </a>
-          <a className="social" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+          <a className="social" href="https://www.linkedin.com/in/md-zulhas-mia-73087b220/" target="_blank" rel="noreferrer">
             LinkedIn
           </a>
           <a className="social" href="https://twitter.com/" target="_blank" rel="noreferrer">

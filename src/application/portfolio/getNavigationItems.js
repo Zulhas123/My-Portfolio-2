@@ -19,11 +19,13 @@ import { createNavigationItem } from "../../domain/portfolio/navigationItem.js";
  * @returns {NavigationItem[]}
  */
 export function deriveNavigationItemsFromSections(sections) {
-  return sections.map((s) =>
-    createNavigationItem({
-      id: s.id,
-      label: s.title,
-      path: `/${s.id === "home" ? "home" : s.id}`,
-    })
-  );
+  return sections
+    .filter((s) => s?.showInNav !== false)
+    .map((s) =>
+      createNavigationItem({
+        id: s.id,
+        label: s.title,
+        path: `/${s.id === "home" ? "home" : s.id}`,
+      })
+    );
 }

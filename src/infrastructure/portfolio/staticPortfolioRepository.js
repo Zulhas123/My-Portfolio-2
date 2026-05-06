@@ -62,6 +62,7 @@ const SECTIONS = [
     title: "Education",
     subtitle: "Academic qualifications and achievements",
     contentKey: "education",
+    showInNav: false,
   }),
   createPortfolioSection({
     id: "certifications",
@@ -74,6 +75,7 @@ const SECTIONS = [
     title: "Key Projects",
     subtitle: "Major enterprise and business solutions delivered",
     contentKey: "keyProjects",
+    showInNav: false,
   }),
   createPortfolioSection({
     id: "key-achievements",
