@@ -8,7 +8,7 @@ import Projects from "../components/Projects/Projects.jsx";
 import Expertise from "../components/Expertise/Expertise.jsx";
 import Experience from "../components/Experience/Experience.jsx";
 import KeySkills from "../components/KeySkills/KeySkills.jsx";
-import Education from "../components/Education/Education.jsx";
+//import Education from "../components/Education/Education.jsx";
 import Certifications from "../components/Certifications/Certifications.jsx";
 import KeyProjects from "../components/KeyProjects/KeyProjects.jsx";
 import KeyAchievements from "../components/KeyAchievements/KeyAchievements.jsx";
@@ -26,7 +26,7 @@ const CONTENT_BY_KEY = {
   expertise: Expertise,
   experience: Experience,
   keySkills: KeySkills,
-  education: Education,
+  //education: Education,
   certifications: Certifications,
   keyProjects: KeyProjects,
   keyAchievements: KeyAchievements,
