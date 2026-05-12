@@ -116,4 +116,14 @@ const services = [
     title: "Website Redesign & Modernization",
     desc: "Upgrade outdated websites with a modern design, improved UX, better performance, and mobile responsiveness.",
   },
+   {
+    icon: "fas fa-laptop-code",
+    title: "Business Landing Page",
+    desc: "Create modern, responsive, and high-converting landing pages designed to showcase your business and attract more customers.",
+  },
+  {
+    icon: "fab fa-facebook",
+    title: "Facebook Page Optimization",
+    desc: "Optimize your Facebook page with professional branding, engaging content setup, and improved visibility to attract and retain customers.",
+  },
 ];

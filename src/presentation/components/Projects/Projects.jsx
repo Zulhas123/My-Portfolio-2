@@ -93,4 +93,12 @@ const projects = [
     title: "SaaS Admin Dashboard",
     desc: "Modern admin dashboard with analytics and subscription control.",
   },
+  {
+    title: "E-Commerce Website",
+    desc: "Modern E-Commerce Website with analytics and subscription control.",
+  },
+  {
+    title: "Business Landing Page",
+    desc: "Modern Business Landing Page with analytics and subscription control.",
+  },
 ];

@@ -27,8 +27,8 @@ export default function ProfessionalProfiles() {
           </li>
           <li>
             <strong>Portfolio:</strong>{" "}
-            <a href="https://zulhasprotfolio.netlify.app" target="_blank" rel="noreferrer">
-              zulhasprotfolio.netlify.app
+            <a href="https://my-portfolio-site-com.netlify.app/" target="_blank" rel="noreferrer">
+              http:zulhas/portfolio.com
             </a>
           </li>
         </ul>
@@ -53,6 +53,12 @@ export default function ProfessionalProfiles() {
             <strong>Edabit:</strong>{" "}
             <a href="https://edabit.com/challenges" target="_blank" rel="noreferrer">
               edabit.com/challenges
+            </a>
+          </li>
+          <li>
+            <strong>Pixel Pivot:</strong>{" "}
+            <a href="https://pixel-pivot.netlify.app/" target="_blank" rel="noreferrer">
+              http:pixelpivot/bd.com
             </a>
           </li>
         </ul>
